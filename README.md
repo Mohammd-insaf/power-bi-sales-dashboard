@@ -31,5 +31,9 @@ This project presents an interactive Executive Sales Dashboard built using Micro
 ## Key Insights
 The dashboard provides a view of revenue, gross profit, sales channels, product categories, and regional order distribution. Specific business conclusions should be added after validating the data and filter selections.
 
+## Dashboard Preview
+
+![Executive Sales Dashboard](Executive_Sales_Dashboard.png)
+
 ## Author
 Mohammd-Insaf
